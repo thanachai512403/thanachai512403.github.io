@@ -140,10 +140,10 @@ export default function Skills() {
           className="text-center mb-12 md:mb-16"
         >
           <div className="w-fit mx-auto px-3 py-1.5 bg-cyan-50 text-cyan-600 text-sm font-semibold uppercase tracking-[0.2em] rounded mb-4 flex justify-center items-center border border-cyan-100">
-            MODULE: HARDWARE_SOFTWARE_SPECS
+            Digital skills
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter leading-tight">
-            Hardware & Software Specs
+            ทักษะด้านดิจิทัล
           </h2>
           <div className="w-12 h-1 bg-cyan-500 mx-auto" />
         </motion.div>

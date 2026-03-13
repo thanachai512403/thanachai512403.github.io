@@ -36,9 +36,9 @@ export default function Education() {
           viewport={{ once: true }}
           className="text-center mb-20"
         >
-          <div className="flex items-center justify-center gap-3 px-4 py-1.5 bg-emerald-600 text-white text-sm font-semibold uppercase tracking-[0.2em] rounded mb-4">
+          <div className="flex items-center justify-center gap-3 w-fit mx-auto px-4 py-1.5 bg-emerald-600 text-white text-sm font-semibold uppercase tracking-[0.2em] rounded mb-4">
             <GraduationCap size={16} />
-            Training_Data
+            Education
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter">
             ประวัติการศึกษา

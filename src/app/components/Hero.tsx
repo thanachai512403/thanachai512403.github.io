@@ -220,7 +220,7 @@ export default function Hero() {
                 <span>
                   <span className="text-cyan-400">root@iot-hub:</span>~#{" "}
                   <span className="text-blue-300">
-                    Hardware & Software Engineering
+                    Engineering
                   </span>
                 </span>
               </p>

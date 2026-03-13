@@ -87,7 +87,7 @@ export default function Activities() {
           className="text-center mb-12 md:mb-16"
         >
           <div className="w-fit mx-auto px-3 py-1.5 bg-emerald-50 text-emerald-600 border border-emerald-100 text-sm font-semibold uppercase tracking-widest rounded mb-4 flex justify-center items-center relative z-10">
-            MODULE: IDLE_PROCESSES
+            Hobbies
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter leading-tight relative z-10">
             กิจกรรมและงานอดิเรก

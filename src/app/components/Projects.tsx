@@ -155,7 +155,7 @@ export default function Projects() {
           className="text-center mb-12 md:mb-16"
         >
           <div className="w-fit mx-auto px-4 py-1.5 bg-slate-900 text-cyan-400 text-sm font-mono uppercase tracking-widest rounded mb-4 flex justify-center items-center shadow-lg shadow-cyan-900/20">
-            root@iot-hub:~$ ls -l /modules
+            Project
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter leading-tight">
             โปรเจคที่เคยทำ

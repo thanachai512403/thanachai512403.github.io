@@ -103,10 +103,10 @@ export default function Contact() {
           className="text-center mb-12 md:mb-16"
         >
           <div className="w-fit mx-auto px-4 py-1.5 bg-cyan-600 text-white text-sm font-semibold uppercase tracking-[0.2em] rounded mb-4 flex justify-center items-center">
-            MODULE: COM_NODE
+            Contact
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter leading-tight">
-            ติดต่อสอบถาม
+            ข้อมูลการติดต่อแทน
           </h2>
           <div className="w-12 h-1 bg-cyan-500 mx-auto" />
         </motion.div>

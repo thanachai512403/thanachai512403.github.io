@@ -95,7 +95,7 @@ export default function About() {
           className="text-center mb-12 md:mb-16"
         >
           <div className="w-fit mx-auto px-3 py-1.5 bg-cyan-50 text-cyan-600 text-sm font-semibold uppercase tracking-widest rounded mb-4 flex justify-center items-center border border-cyan-100">
-            MODULE: HARDWARE_PROFILE
+            INTRODUCE YOURSEFL
           </div>
           <h2 className="text-3xl xs:text-4xl md:text-6xl font-bold text-slate-900 mb-4 tracking-tighter leading-tight">
             แนะนำตัวเอง
